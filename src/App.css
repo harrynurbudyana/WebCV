@@ -10,14 +10,19 @@
 .App-header {
   background-color: #222;
   height: 150px;
-  padding: 20px;
-  color: white;
+  padding: 0px;
+  color: #ffffff;
 }
 
 .App-intro {
   font-size: large;
 }
 
+.App-Body {
+  background-color: #f9ca24;
+  height: 600px;
+  color: #ffffff;
+}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
